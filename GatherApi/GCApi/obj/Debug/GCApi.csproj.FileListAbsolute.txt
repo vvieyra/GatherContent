@@ -1,0 +1,14 @@
+C:\Users\val\Documents\Visual Studio 2012\Projects\GatherContentDemo\GCApi\obj\Debug\GCApi.csprojResolveAssemblyReference.cache
+C:\Users\val\Documents\Visual Studio 2012\Projects\GatherContentDemo\GCApi\bin\GCApi.dll
+C:\Users\val\Documents\Visual Studio 2012\Projects\GatherContentDemo\GCApi\bin\GCApi.pdb
+C:\Users\val\Documents\Visual Studio 2012\Projects\GatherContentDemo\GCApi\bin\Newtonsoft.Json.dll
+C:\Users\val\Documents\Visual Studio 2012\Projects\GatherContentDemo\GCApi\bin\Newtonsoft.Json.xml
+C:\Users\val\Documents\Visual Studio 2012\Projects\GatherContentDemo\GCApi\obj\Debug\GCApi.dll
+C:\Users\val\Documents\Visual Studio 2012\Projects\GatherContentDemo\GCApi\obj\Debug\GCApi.pdb
+C:\ActiveProjects\GatherContentDemo\GCApi\bin\GCApi.dll
+C:\ActiveProjects\GatherContentDemo\GCApi\bin\GCApi.pdb
+C:\ActiveProjects\GatherContentDemo\GCApi\bin\Newtonsoft.Json.dll
+C:\ActiveProjects\GatherContentDemo\GCApi\bin\Newtonsoft.Json.xml
+C:\ActiveProjects\GatherContentDemo\GCApi\obj\Debug\GCApi.csprojResolveAssemblyReference.cache
+C:\ActiveProjects\GatherContentDemo\GCApi\obj\Debug\GCApi.dll
+C:\ActiveProjects\GatherContentDemo\GCApi\obj\Debug\GCApi.pdb

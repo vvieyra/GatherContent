@@ -1,0 +1,7 @@
+C:\ActiveProjects\GatherContentDemo\GCApi\bin\GCApi.dll
+C:\ActiveProjects\GatherContentDemo\GCApi\bin\GCApi.pdb
+C:\ActiveProjects\GatherContentDemo\GCApi\bin\Newtonsoft.Json.dll
+C:\ActiveProjects\GatherContentDemo\GCApi\bin\Newtonsoft.Json.xml
+C:\ActiveProjects\GatherContentDemo\GCApi\obj\Release\GCApi.csprojResolveAssemblyReference.cache
+C:\ActiveProjects\GatherContentDemo\GCApi\obj\Release\GCApi.dll
+C:\ActiveProjects\GatherContentDemo\GCApi\obj\Release\GCApi.pdb
