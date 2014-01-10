@@ -84,9 +84,9 @@ namespace GCApi.GatherContent
 				if (result == null || !result["success"].Value<Boolean>())
 					throw new RequestErrorException();
 			}
-			catch (Exception e)
+			catch
 			{
-				throw e;
+				throw;
 			}
 			#endregion
 		}
@@ -124,9 +124,9 @@ namespace GCApi.GatherContent
 					throw new RequestErrorException();
 				return resultString;
 			}
-			catch (Exception e)
+			catch
 			{
-				throw e;
+				throw;
 			}
 		}
 		internal JObject GetDataJson(GatherMethods method, string ID = "")
